@@ -1,4 +1,4 @@
-# IPSMP_resource_pack
+# IBSMP_resource_pack
 _Core resource pack of the Ice Boat SMP._
 
 > [!IMPORTANT]
